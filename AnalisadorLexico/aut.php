@@ -212,7 +212,7 @@ $aux = array(
     'q55' => '(ACRESCENTA)', 'q56' => '(MAIOR_IGUAL)', 'q57' => '(MENOR_IGUAL)', 'q58' => '(COMPARA)', 'q59' => '(DIFERENTE)'
 );
 
-$estado = 'q0'; // Assuming you've defined this
+$estado = 'q0'; 
 $entrada = 'if 2345l';
 $inicio = 0;
 $fim = 0;
